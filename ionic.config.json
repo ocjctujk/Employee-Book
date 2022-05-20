@@ -1,0 +1,7 @@
+{
+  "name": "Employee Book",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

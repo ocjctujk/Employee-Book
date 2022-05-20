@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Julian Wan ",
+      "designation": "Web Developer",
+      "email": "julian.wan@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 2,
+      "name": "Cesor Recon",
+      "designation": "Android Developer",
+      "email": "cesor.recon@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 3,
+      "name": "Alex Supran",
+      "designation": "IOS Developer",
+      "email": "alexsupran@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 4,
+      "name": "Sigmund",
+      "designation": "Angular Developer",
+      "email": "sigmun@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 5,
+      "name": "Alex Arnold",
+      "designation": "React Developer",
+      "email": "alexarnold@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1564932437263-dbf5578771bb?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZmlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 6,
+      "name": "Lisa Vontaro",
+      "designation": "UI UX Designer",
+      "email": "lisavontaro@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1534126416832-a88fdf2911c2?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 7,
+      "name": "Killjoy",
+      "designation": "Game Developer",
+      "email": "killjoy@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1534119768988-c496213eff76?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZmlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 8,
+      "name": "Baariki Sulemaan",
+      "designation": "XR Developer",
+      "email": "baariki@gmail.com",
+      "mobile": "9898989898",
+      "imageURL": "https://images.unsplash.com/photo-1614807547811-4174d3582092?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2ZpbGV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500"
+    },
+    {
+      "id": 9,
+      "name": "Maharshi Gohel",
+      "email": "maharshi.sculptsoft@gmail.com",
+      "mobile": "6351452771",
+      "designation": "Angular Developer",
+      "imageURL": "https://yt3.ggpht.com/ytc/AKedOLQM61Xx3yqJQA8O2XCihDvXd05OZ-mmQjm-3XBJKQ=s900-c-k-c0x00ffffff-no-rj"
+    }
+  ]
+}

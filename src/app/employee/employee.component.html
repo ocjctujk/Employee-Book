@@ -1,0 +1,19 @@
+<div class="card">
+  <div class="icons">
+    <ion-icon name="create-outline" color="secondary" class="ion-margin" size="large" (click)="onEdit()"></ion-icon>
+    <ion-icon name="trash-outline" color="danger" class="ion-margin trash" size="large" (click)="onDelete()"></ion-icon>
+  </div>
+
+
+  <img class="card-img-top" [src]="employee.imageURL" alt="Card image cap" />
+  <div class="card-body">
+    <h5 class="card-title">{{ employee.name }}</h5>
+    <p class="card-text designation">{{ employee.designation }}</p>
+    <p class="card-text mobile">{{ employee.mobile }}</p>
+    <p class="card-text email">{{ employee.email }}</p>
+    <div class="buttons">
+      <a class="btn btn-primary" (click)="onEdit()">Edit</a>
+      <a class="btn btn-danger ion-margin" (click)="onDelete()">Delete</a>
+    </div>
+  </div>
+</div>

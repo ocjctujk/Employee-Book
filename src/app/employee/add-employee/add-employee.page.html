@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>Add employee</ion-title>
+    <ion-buttons slot="primary">
+      <ion-button color="light" (click)="onClose()">Close</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <form [formGroup]="form" (ngSubmit)="onSubmit()">
+          <ion-item>
+            <ion-label position="floating">Name</ion-label>
+            <ion-input formControlName="name" placeholder="enter employee's name"></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-label position="floating">Designation</ion-label>
+            <ion-input formControlName="designation" placeholder="enter employee's designation"></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-label position="floating">Email</ion-label>
+            <ion-input formControlName="email" placeholder="enter employee's email"></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-label position="floating">Mobile</ion-label>
+            <ion-input formControlName="mobile" placeholder="enter employee's mobile number"></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-label position="floating">image URL</ion-label>
+            <ion-input formControlName="imageURL" placeholder="enter image url"></ion-input>
+          </ion-item>
+          <ion-button class="ion-margin" [disabled]="!form.valid" type="submit">
+            Add
+          </ion-button>
+        </form>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
